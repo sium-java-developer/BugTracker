@@ -17,7 +17,8 @@ A bug tracking application built with:
     JUnit & Mockito: Unit Testing, Integration Testing.
     PostgreSQL: To handle sql related database schema.
     Tomcat Server: To run the application on the server.
-    etc: other required technologies.
+    Docker: To containerize application in any OS.
+    Etc. : Other required technologies.
 
 
 Features:
