@@ -25,7 +25,7 @@ Features:
 
     List of functionalities:
         CRUD functionalities for Bug and User entities.
-        Create Model classes, reposity layer, service layer, controller layers for Bug and Users.
+        Create Model classes, repository layer, service layer, controller layers for Bug and Users.
         Assign bugs to developers.
         Track bug status (Open, In Progress, Fixed, etc.).
         Search and filter bugs.
